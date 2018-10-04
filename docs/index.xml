@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angkor Hats  on 50-50 </title>
+    <link>https://angkorhats.tk/</link>
+    <description>Recent content in Angkor Hats  on 50-50 </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Sep 2018 20:52:01 +1000</lastBuildDate>
+    
+	<atom:link href="https://angkorhats.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oct 7, 2018 Bus Depot Markets Canberra</title>
+      <link>https://angkorhats.tk/post/news-1/</link>
+      <pubDate>Sun, 30 Sep 2018 20:52:01 +1000</pubDate>
+      
+      <guid>https://angkorhats.tk/post/news-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://angkorhats.tk/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angkorhats.tk/contact/</guid>
+      <description>Please send hat orders to angkorhats (at) gmail.com
+NB: For the sake of avoiding unnecessary spam I have not included a contact form- I hope you understand the above email is replacing what is in parenthesis with the @ symbol. Also, I prefer not to use paypal or any credit card transactions online for cost reasons and security!
+Deposit funds to bsb and account via your bank account for safest and secure transaction, the details of which will be forwarded to you once you email your order.</description>
+    </item>
+    
+  </channel>
+</rss>

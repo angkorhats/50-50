@@ -1,0 +1,14 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
+
