@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on 50-50 </title>
+    <link>https://angkorhats.tk/contact/</link>
+    <description>Recent content in Contacts on 50-50 </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://angkorhats.tk/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://angkorhats.tk/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://angkorhats.tk/contact/contact/</guid>
+      <description>Please send hat orders to angkorhats (at) gmail.com
+NB: For the sake of avoiding unnecessary spam I have not included a contact form- I hope you understand the above email is replacing what is in parenthesis with the @ symbol. Also, I prefer not to use paypal or any credit card transactions online for cost reasons and security!
+Deposit funds to bsb and account via your bank account for safest and secure transaction, the details of which will be forwarded to you once you email your order.</description>
+    </item>
+    
+  </channel>
+</rss>
