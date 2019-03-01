@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on 50-50 </title>
+    <link>https://angkorhats.tk/post/</link>
+    <description>Recent content in News on 50-50 </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://angkorhats.tk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feb 22, 2019 Central Markets, Phnom Penh</title>
+      <link>https://angkorhats.tk/post/news-2/</link>
+      <pubDate>Fri, 22 Feb 2019 20:52:01 +1000</pubDate>
+      
+      <guid>https://angkorhats.tk/post/news-2/</guid>
+      <description>Cambodian Hats handpicked at Central market commences</description>
+    </item>
+    
+    <item>
+      <title>Oct 7, 2018 Bus Depot Markets Canberra</title>
+      <link>https://angkorhats.tk/post/news-1/</link>
+      <pubDate>Sun, 30 Sep 2018 20:52:01 +1000</pubDate>
+      
+      <guid>https://angkorhats.tk/post/news-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
